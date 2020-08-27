@@ -1,0 +1,51 @@
+{
+  "id": "2009113",
+  "name": "vivo",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "978354",
+      "name": "微信",
+      "font_class": "weixin",
+      "unicode": "e63e",
+      "unicode_decimal": 58942
+    },
+    {
+      "icon_id": "1115094",
+      "name": "支付宝",
+      "font_class": "zhifubao",
+      "unicode": "e64b",
+      "unicode_decimal": 58955
+    },
+    {
+      "icon_id": "6756291",
+      "name": "微博",
+      "font_class": "weibo",
+      "unicode": "e608",
+      "unicode_decimal": 58888
+    },
+    {
+      "icon_id": "11058856",
+      "name": "小程序",
+      "font_class": "xiaochengxu",
+      "unicode": "e63f",
+      "unicode_decimal": 58943
+    },
+    {
+      "icon_id": "15796876",
+      "name": "信息",
+      "font_class": "xinxi",
+      "unicode": "e62a",
+      "unicode_decimal": 58922
+    },
+    {
+      "icon_id": "16583189",
+      "name": "右箭头",
+      "font_class": "jiantou",
+      "unicode": "e64c",
+      "unicode_decimal": 58956
+    }
+  ]
+}

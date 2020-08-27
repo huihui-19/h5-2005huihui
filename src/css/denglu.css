@@ -1,0 +1,194 @@
+.content{
+    background-color: #b9d3f8;
+    height: 100%;
+    width: 100%;
+
+}
+.but {
+    height: 100%;
+    width: 100%;   
+    position: relative;
+}
+.but img{
+    height: 100%;
+    width: 100%;
+}
+.logo{
+    position: absolute;
+    left: 234px;
+    top: 0;
+}
+.logo img{
+    width: 145px;
+    height: 52px;
+}
+.main{
+    width: 420px;
+    height: 674px;
+    background-color: #fff;
+    position: absolute;
+    right: 0;
+    top: 20px;
+    text-align: center;
+    padding: 30px 30px 20px;
+    box-sizing: border-box;
+}
+.logov img{
+    width: 160px;
+    height: 42px;
+    
+}
+.main .sm{
+    font-size: 20px;
+    color: #000000;
+    margin: 20px 0;
+}
+.main .zz{
+    font-size: 16px;
+    color: #456fff;
+    margin-left: 296px;
+}
+.item{
+    width: 360px;
+    height: 46px;
+    border: 1px solid #cccccc;
+    margin-top: 20px;
+    text-align: center;
+    padding: 1px;
+}
+.item span{
+    display: block;
+    height: 48px;
+    line-height: 48px;
+    padding-left: 12px;
+    font-size: 16px;
+    color: #000;
+    cursor: pointer;
+    float: left;
+}
+.item input{
+    width: 274px;
+    float: left;
+    padding-left: 20px;
+    height: 46px;
+    font-size: 16px;
+    color: #000;
+    border: none;
+    line-height: normal;
+}
+.item-l{
+    width: 360px;
+    height: 46px;
+    border: 1px solid #cccccc;
+    margin-top: 20px;
+    text-align: center;
+    padding: 1px;
+}
+.item-l input{
+    width: 226px;
+    float: left;
+    padding-left: 20px;
+    height: 46px;
+    font-size: 16px;
+    color: #000;
+    border: none;
+    line-height: normal;
+}
+.ss{
+    width:97px;
+    height: 48px;
+    padding: 0 8px;
+    float: left;
+    border-left: 1px solid #cccccc;
+}
+.ss span{
+    color: #456fff;
+    font-size: 16px;
+    text-align: center;
+    line-height: 48px;
+
+}
+.get{
+    width: 124px;
+    height: 23px;
+    margin-left: 236px;
+    margin-top: 20px;
+}
+.get input{
+    width: 20px;
+    height: 20px;
+    color: #fff;
+    vertical-align: middle;
+    margin-top: -2px;
+}
+.get P{
+    position: absolute;
+    left: 30px;
+    color: #ec3f3f;
+    font-size: 14px;
+    display: none;
+}
+.get span{
+    color: #666666;
+    font-size: 14px;
+}
+.deng{
+    width: 360px;
+    height: 48px;
+    background-color: #456fff;
+    margin-top: 20px;
+    text-align: center;
+}
+.deng a{
+    display: block;
+    color: #fff;
+    line-height: 48px;
+    font-size: 18px;
+    width: 100%;
+    height: 100%;
+}
+.zhu{
+    width: 360px;
+    height: 48px;
+    background-color: #fff;
+    margin: 20px 0;
+    border: 1px solid #456fff;
+}
+.zhu a{
+    color: #fff;
+    line-height: 48px;
+    font-size: 18px;
+    color: #456fff; 
+    display: block;
+    width: 100%;
+    height: 100%;
+}
+.wait{
+    font-size: 12px;
+    color: #999999;
+    line-height: 18px;
+    text-align: left;
+}
+.ou{
+    display: block;
+    margin-top: 20px;
+    font-size: 16px;
+    color: #999999;
+}
+.ou:hover{
+    color: #456fff; 
+}
+.ne{
+    display: block;
+    margin-top: 15px;
+    color: #999999;
+    font-size: 12px;
+}
+.small-tu{
+    margin-top: 15px;
+}
+.small-tu span{
+    font-size: 22px;
+    color: #456fff; 
+    margin-left: 20px;
+}

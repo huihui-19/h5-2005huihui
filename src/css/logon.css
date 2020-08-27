@@ -1,0 +1,198 @@
+html, body {
+  background-color: #f7f7f7;
+}
+
+.main {
+  width: 860px;
+  height: 670px;
+  background-color: #fff;
+  margin: 80px 330px 0;
+  padding-left: 250px;
+  box-sizing: border-box;
+}
+.main .logo {
+  width: 160px;
+  height: 42px;
+  margin-top: 60px;
+  margin-left: 100px;
+}
+.main .p1 {
+  font-size: 22px;
+  color: #000000;
+  line-height: 35px;
+  margin-top: 26px;
+  margin-left: 130px;
+}
+.main .con {
+  display: inline-block;
+  height: 48px;
+  width: 362px;
+  background-color: #fff;
+  border: 1px solid #dedfe0;
+  font-size: 16px;
+  color: #000;
+  padding-left: 12px;
+  line-height: 48px;
+  position: relative;
+  cursor: pointer;
+  margin-top: 60px;
+  text-align: left;
+}
+.main .pp {
+  float: right;
+  width: 19px;
+  height: 10px;
+  margin-top: 20px;
+  margin-right: 10px;
+}
+.main .p2 {
+  margin-top: 10px;
+  font-size: 14px;
+  color: #999;
+  line-height: 19px;
+}
+.main .item {
+  width: 374px;
+  height: 46px;
+  border: 1px solid #cccccc;
+  margin-top: 20px;
+  text-align: center;
+  padding: 1px;
+  margin-bottom: 20px;
+}
+.main .item span {
+  display: block;
+  height: 48px;
+  line-height: 48px;
+  padding-left: 12px;
+  font-size: 16px;
+  color: #000;
+  cursor: pointer;
+  float: left;
+}
+.main .item input {
+  width: 274px;
+  float: left;
+  padding-left: 20px;
+  height: 46px;
+  font-size: 16px;
+  color: #000;
+  border: none;
+  line-height: normal;
+}
+.main .bx {
+  width: 18px;
+  height: 18px;
+  vertical-align: middle;
+  margin-top: -2px;
+  margin-right: 5px;
+}
+.main .p3 {
+  color: red;
+  font-size: 14px;
+  margin-bottom: 16px;
+  display: none;
+}
+.main .p4 {
+  color: red;
+  font-size: 14px;
+  margin-bottom: 16px;
+  display: none;
+}
+.main span {
+  color: #252525;
+  font-size: 14px;
+}
+.main .next {
+  display: block;
+  margin-top: 20px;
+  width: 360px;
+  height: 48px;
+  background-color: #415fff;
+  text-align: center;
+  line-height: 48px;
+  font-size: 16px;
+  color: white;
+}
+
+.content {
+  width: 860px;
+  height: 670px;
+  background-color: #fff;
+  margin: 80px 330px 0;
+  padding-left: 250px;
+  box-sizing: border-box;
+  display: none;
+}
+.content .logo {
+  width: 160px;
+  height: 42px;
+  margin-top: 60px;
+  margin-left: 100px;
+}
+.content .p1 {
+  font-size: 22px;
+  color: #000000;
+  line-height: 35px;
+  margin-top: 26px;
+  margin-left: 130px;
+}
+.content .p5 {
+  display: block;
+  font-size: 14px;
+  color: #000000;
+  margin-top: 50px;
+}
+.content .item {
+  width: 370px;
+  height: 36px;
+  border: 1px solid #cccccc;
+  margin-top: 20px;
+  text-align: center;
+  padding: 5px 0;
+  margin-bottom: 20px;
+}
+.content .item input {
+  width: 250px;
+  float: left;
+  padding-left: 20px;
+  height: 36px;
+  font-size: 16px;
+  color: #000;
+  border: none;
+  line-height: normal;
+}
+.content .item .item-right {
+  float: right;
+  width: 98px;
+  height: 36px;
+  border-left: 2px solid #cccccc;
+  font-size: 15px;
+  text-align: center;
+  line-height: 36px;
+  color: #415fff;
+}
+.content .item img {
+  width: 21px;
+  height: 18px;
+  margin-top: 10px;
+}
+.content .mi {
+  font-size: 14px;
+  color: #999;
+  line-height: 19px;
+}
+.content .login {
+  display: block;
+  margin-top: 20px;
+  width: 360px;
+  height: 48px;
+  background-color: #415fff;
+  text-align: center;
+  line-height: 48px;
+  font-size: 16px;
+  color: white;
+  margin-bottom: 10px;
+}
+
+/*# sourceMappingURL=logon.css.map */
